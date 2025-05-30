@@ -1,2 +1,2 @@
-# My-Portfolio
-Welcome to the repository that's used to hone my version control skills for my portfolio website!
+# Welcome to Julio Cuello's Portfolio!
+Using a simplistic User Interface, here is where I will have all important work-related things about me stored 
