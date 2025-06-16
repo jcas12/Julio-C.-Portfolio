@@ -8,9 +8,9 @@ function App() {
   return (
     <>
     <p></p>
-      <div className="flex min-h-screen w-full subpixel-antialiased">
+      <div className="flex flex-col md:flex-row min-h-screen w-full subpixel-antialiased">
         <HeaderLeft/>
-        <main className="flex-[3]">
+        <main className="flex-[3] pt-20 md:pt-0">
           <Home/>
           <Experience/>
           <Projects/>

@@ -1,7 +1,7 @@
 const Contact = () => {
   return (
-    <div id="contact" className="flex min-h-screen w-full flex-col 
-    items-center justify-center gap-16 p-8">
+    <div id="contact" className="flex min-h-screen w-full flex-col
+    items-center justify-center gap-16 p-8 scroll-mt-20 md:scroll-mt-0">
       <h1 className="text-center text-6xl font-light text-blue-600">Contact Me</h1>
 
       <form 

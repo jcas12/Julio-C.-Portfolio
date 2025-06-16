@@ -2,7 +2,7 @@ import { BiLogoGithub, BiLogoLinkedin } from 'react-icons/bi'
 
 const Home = () => {
   return (
-    <div id="home" className="flex min-h-screen w-full items-center justify-center"> 
+    <div id="home" className="flex min-h-screen w-full items-center justify-center scroll-mt-20 md:scroll-mt-0">
 
         <div className="flex flex-col items-center justify-center gap-8 p-5 text-center">
             <img src="/julioselfie.JPG" alt="" className='w-[250px] sm:w-[300px] rounded-full'/>
