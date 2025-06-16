@@ -37,15 +37,21 @@ const Projects = () => {
         </a>
 
         {/* Placeholder Card */}
-        <div className="h-[280px] flex flex-col justify-between
-        text-left space-y-2 border-2 hover:scale-105 transition-all duration-200 
-        cursor-pointer px-8 py-10 border-blue-500 rounded-lg hover:bg-blue-50 overflow-hidden">
-          <h1 className="text-3xl font-semibold">Project Name</h1>
-          <h3 className="text-xl text-gray-700">Tech Stack</h3>
-          <p className="text-sm text-gray-600">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          </p>
-        </div>
+        <a
+          href="https://github.com/jcas12/Exo-s-Adventure"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <div className="h-[280px] flex flex-col justify-between
+          text-left space-y-2 border-2 hover:scale-105 transition-all duration-200 
+          cursor-pointer px-8 py-10 border-blue-500 rounded-lg hover:bg-blue-50 overflow-hidden">
+            <h1 className="text-3xl font-semibold">Exo's Adventure</h1>
+            <h3 className="text-xl text-gray-700">Python, Pygame, Aseprite</h3>
+            <p className="text-sm text-gray-600">
+              SNES inspired game created to reinforce Python concepts.
+            </p>
+          </div>
+        </a>
 
       </div>
     </div>
