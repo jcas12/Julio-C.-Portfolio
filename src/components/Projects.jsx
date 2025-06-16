@@ -36,7 +36,7 @@ const Projects = () => {
           </div>
         </a>
 
-        {/* Placeholder Card */}
+        {/* Exo Adventure Card */}
         <a
           href="https://github.com/jcas12/Exo-s-Adventure"
           target="_blank"
