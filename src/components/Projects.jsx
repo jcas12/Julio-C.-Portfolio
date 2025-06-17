@@ -14,8 +14,7 @@ const Projects = () => {
           <h1 className="text-3xl font-semibold">Polisports (Soon)</h1>
           <h3 className="text-xl text-gray-700">Next.js, Tailwind, Node.js, Supabase</h3>
           <p className="text-sm text-gray-600">
-            A responsive sports web app for PUPR, using modern tools 
-            to manage content and display it cleanly.
+            A responsive full stack web app for PUPR athletics.
           </p>
         </div>
 
