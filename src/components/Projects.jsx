@@ -11,7 +11,7 @@ const Projects = () => {
         <div className="h-[280px] flex flex-col justify-between
         text-left space-y-2 border-2 hover:scale-105 transition-all duration-200 
         cursor-pointer px-8 py-10 border-blue-500 rounded-lg hover:bg-blue-50 overflow-hidden">
-          <h1 className="text-3xl font-semibold">Polisports</h1>
+          <h1 className="text-3xl font-semibold">Polisports (Soon)</h1>
           <h3 className="text-xl text-gray-700">Next.js, Tailwind, Node.js, Supabase</h3>
           <p className="text-sm text-gray-600">
             A responsive sports web app for PUPR, using modern tools 
