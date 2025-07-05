@@ -35,6 +35,23 @@ const Projects = () => {
           </div>
         </a>
 
+        {/*GrooveTube Card */}
+        <a
+          href="https://github.com/jcas12/GrooveTube"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <div className="h-[280px] flex flex-col justify-between
+          text-left space-y-2 border-2 hover:scale-105 transition-all duration-200 
+          cursor-pointer px-8 py-10 border-blue-500 rounded-lg hover:bg-blue-50 overflow-hidden">
+            <h1 className="text-3xl font-semibold">GrooveTube</h1>
+            <h3 className="text-xl text-gray-700">Python, ffmpeg, discord.py</h3>
+            <p className="text-sm text-gray-600">
+              Discord bot that plays YouTube urls as audio.
+            </p>
+          </div>
+        </a>
+
       </div>
     </div>
   )
